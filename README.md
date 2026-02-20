@@ -1,4 +1,4 @@
-# Data-Jobs-Analytics-by-Excel
+# Data Job Analytics by using Excel
 The project documented my Excel skills, exploiting PivotTable, Power Query, and PowerPivot to analyse which skills are needed in the data domain. The project also revealed different salary ranges across countries, mostly primarily in the United States. 
 
 # Final Dashboard
