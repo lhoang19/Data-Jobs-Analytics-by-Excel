@@ -1,16 +1,20 @@
 # Data Job Analytics by using Excel
-The project documented my Excel skills, exploiting PivotTable, Power Query, and PowerPivot to analyse which skills are needed in the data domain. The project also revealed different salary ranges across countries, mostly primarily in the United States. 
+The project documented my Excel skills, exploiting PivotTable, Power Query, and PowerPivot to analyse which skills are needed in the data domain. The project also revealed different salary ranges across countries, mostly primarily in the United States and Australia
 
 # Final Dashboard
 The final dashboard for my project was illustrated as below:
 
+
 <img width="1291" height="453" alt="1  Overall Salary Dashboard" src="https://github.com/user-attachments/assets/0c8ba073-0244-40ad-8452-0a0c663bb3c1" />
+
 
 The dashboard featured three charts: Median Salary by Job Title, Country, and Job Count by Job Title. For the convenience of analysis, I would like to pick job title "Data Analyst" since it is the most commonly searched titles job seekers have been looking for. In the United States, the median salary has been estimated at around US$90,000 with total 6,480 job openings across Full - Time, Part - Time, Contractor, Temporary Work (Temp-Work), and Intership. 
 
 Since I am based in Australia, I also look for the Data Analyst title in Australia: 
 
+
 <img width="1298" height="447" alt="image" src="https://github.com/user-attachments/assets/74a347a4-7b9d-4bf7-95c4-51f70fcad3b4" />
+
 
 While building a global salary dashboard, I identified a significant discrepancy between automated data scraping and "ground-truth" recruitment data in Australia. It was clear that the median salary for Data Analyst in Australia has been estimated at US$109,500 (AU$155,000, with current exchange rate: 1 USD = 1.42 AUD). 
 
@@ -29,11 +33,14 @@ Besides building up salary dashboards, I also explored the correlation between t
 
 <img width="660" height="734" alt="image" src="https://github.com/user-attachments/assets/b9eb4f88-0889-48f9-a53c-f8407492cee0" />
 
+
 Based on the data model developed from Power Pivot, I developed the correlation diagram as below:
 
 <img width="333" height="239" alt="image" src="https://github.com/user-attachments/assets/25eaad88-1fa3-432f-a3fc-d15995aaa8b0" />
 
+
 <img width="861" height="546" alt="image" src="https://github.com/user-attachments/assets/c3ae82e3-182e-4030-9ac8-99fe287a3dc7" />
+
 
 📈 Core Data Insights: The Value of Specialisation
 - Identified a Positive Correlation Between Skill Density and Pay: I observed that as the number of skills requested per job posting increased, the median salary followed a consistent upward trend, with roles requiring 7+ skills, such as Senior Data Engineers, commanding over $145,000 USD.
